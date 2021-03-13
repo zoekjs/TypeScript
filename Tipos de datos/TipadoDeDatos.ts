@@ -12,3 +12,6 @@ const edad:number = 28
 // esto nos genera un archivo de javascript el cual podremos ejecutar en la terminal con node
 // node <nombreArchivo.js>
 // Cada vez que se realice un cambio en el archivo hay que volver a compilar
+
+
+// compilar continuamente => tsc --w <nombreArchivo.ts>
