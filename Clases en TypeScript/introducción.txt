@@ -1,0 +1,18 @@
+Una clase es un plano o plantilla de un objeto, la cual define métodos y atributos de dicho objeto.
+
+Un objeto envuelve bloques de información y comportamientos relacionados y se construyen a partir de las clases
+
+Ejemplo, Objeto auto.
+Propiedades
+  Color
+  Marca
+  Numero de ruedas
+  Numero de puertas
+Metodos
+  Encender
+  Acelerar
+  Frenar
+
+  Se pueden construir multiples objetos a partir de esta clase ficticia, pueden tener distintas marcas, colores d
+  pero sus métodos son los mismos, básicamente un objeto es como un molde y las clases la masa para hacer galletas,
+  me cachai ?
